@@ -1,0 +1,53 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "marker_info",
+      "value": "Write Marker Info"
+    },
+    {
+      "name": "dialog_title",
+      "value": "*Title :"
+    },
+    {
+      "name": "dialog_title_placeholder",
+      "value": "Write Title"
+    },
+    {
+      "name": "dialog_info",
+      "value": "Info\n(Optional) :"
+    },
+    {
+      "name": "dialog_info_placeholder",
+      "value": "Write Info"
+    },
+    {
+      "name": "dialog_text",
+      "value": "After added the marker on the current location, you can drag it anywhere you select"
+    },
+    {
+      "name": "add_marker",
+      "value": "Add Marker"
+    },
+    {
+      "name": "save_parking",
+      "value": "Save Parking Location"
+    },
+    {
+      "name": "marker",
+      "value": "Marker"
+    }
+
+  ]
+}
