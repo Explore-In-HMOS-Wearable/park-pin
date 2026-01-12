@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName":  "com.hmosdemos.parkpin",
+    "bundleName":  "com.hmosdemos.wearable.park_pin",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",

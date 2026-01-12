@@ -10,6 +10,7 @@ ParkPin is a practical location-based app that helps users remember where they p
   <img src="./screenshots/o2.png" width="24%">
   <img src="./screenshots/o3.png" width="24%">
   <img src="./screenshots/o4.png" width="24%">
+
 </div>
 
 # Use Cases

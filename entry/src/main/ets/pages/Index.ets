@@ -17,7 +17,6 @@ struct Index {
   @State marker?: map.Marker = undefined
   @State flag: boolean = false
   @State markerTitle: string = ''
-  @State markerInfo: string = ''
   private drawRouteModel: DrawRouteModel = new DrawRouteModel();
   @StorageLink('routes') routes: Array<navi.Route> | undefined = [];
   locationPrefs: preferences.Preferences | null = null;
@@ -32,7 +31,7 @@ struct Index {
           longitude: 28.9784
         },
         zoom: 6
-      },
+      }
     };
 
     this.callback = async (err: BusinessError | null, controller: map.MapComponentController) => {
@@ -219,7 +218,7 @@ struct Index {
         visible: true,
         clickable: true,
         draggable: true,
-        flat: false,
+        flat: false
       };
 
       if (this.mapController) {
